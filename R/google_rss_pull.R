@@ -1,3 +1,15 @@
+#' @title Miscellaneous Codes for collecting text from RSS feeds from Google
+#'
+#' @description
+#'
+#' @param url
+#'
+#' @return NULL
+#'
+#' @examples
+#'
+#' @export
+
 # Explanation:
 # This script pulls and saves xml files from generated news searches using Google News Alerts
 # Each search in v.1.0 is a simple "ethnic-group" search ("Acher", "Malay", etc.)
